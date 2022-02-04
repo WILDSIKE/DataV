@@ -1,0 +1,5 @@
+shape,dimensions,position,color,
+rectangle,         4,         x,0,y,0,width,200,height,100,             fill,pink
+circle,            3,              cx,250,cy,50,r,50,
+ellipse,           4,          cx,250,cy,50,rx,150,ry,50,
+line,              4,          x1,100,x2,200,y1,50,y2,250,             stroke,blue
